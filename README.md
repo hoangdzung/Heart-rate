@@ -5,7 +5,7 @@ This project uses python2
   pip install numpy
 ```
 ```
-  pip install opencv-python \n
+  pip install opencv-python
 ```
 * How to run
  ```
